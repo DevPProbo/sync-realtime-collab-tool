@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sync - Realtime Collaboration</string>
+    <string name="GPT_BASE_URl">/</string>
+    <string name="GPT_API_KEY"></string>
+    <string name="STORAGE_URL"></string>
+    <string name="DB_URL"></string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_document">DocumentActivity</string>
+    <string name="title_activity_tab_screen">TabScreen</string>
+</resources>

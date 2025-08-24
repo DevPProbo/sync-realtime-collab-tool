@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424785417458",
+    "project_id": "sync-a6d83",
+    "storage_bucket": "sync-a6d83.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424785417458:android:fea115221ecdac533c6c6b",
+        "android_client_info": {
+          "package_name": "com.devajit.sync_realtimecontentwriting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXIZWvsl6kPVcKHdLjVtE6I0AvKAsSQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
